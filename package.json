@@ -1,0 +1,32 @@
+{
+  "name": "combo-box",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --port 3002",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/server": "^11.10.0",
+    "@emotion/styled": "^11.10.6",
+    "@mui/base": "^5.0.0-beta.18",
+    "@mui/core": "^5.0.0-alpha.54",
+    "@types/lodash": "^4.14.202",
+    "@types/node": "^18.15.3",
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@types/styled-components": "^5.1.28",
+    "eslint": "^8.36.0",
+    "eslint-config-next": "^13.2.4",
+    "lodash": "^4.17.21",
+    "next": "^13.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-transition-group": "^4.4.5",
+    "styled-components": "^6.0.8",
+    "typescript": "^4.9.5"
+  }
+}
